@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Amawulire</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail_view">DetailView</string>
+    <string name="title_activity_tab5">Tab5</string>
+    <string name="title_activity_the_settings">TheSettings</string>
+    <string name="title_activity_item_grid_view">ItemGridView</string>
+    <string name="title_activity_news_category_selection">Catergories</string>
+    <string name="preference_file_key">AMAWULIRE</string>
+    <string name="facebook_app_id">1646354895576483</string>
+</resources>

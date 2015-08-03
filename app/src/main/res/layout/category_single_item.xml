@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    tools:context="thinking.codebender.amawulire.activities.NewsCategorySelection">
+
+   <TextView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:id="@+id/category_name"
+       android:text="International"
+       android:layout_centerVertical="true"
+       android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+
+    <thinking.codebender.amawulire.ui.TouchCheckBox
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/category_checkbox"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        />
+
+</RelativeLayout>
