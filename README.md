@@ -1,4 +1,4 @@
-# Amawulire-1
+# Amawulire
 Amawulire literally means News in the Luganda language. This android app was developed using Android Studio and themed
 using Material Design. 
 
