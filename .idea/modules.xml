@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Amawulire-1.iml" filepath="$PROJECT_DIR$/Amawulire-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Amawulire.iml" filepath="$PROJECT_DIR$/Amawulire.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/facebook/facebook.iml" filepath="$PROJECT_DIR$/facebook/facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facebook-android-sdk-4.8.2/facebook-android-sdk-4.8.2.iml" filepath="$PROJECT_DIR$/facebook-android-sdk-4.8.2/facebook-android-sdk-4.8.2.iml" />
     </modules>
   </component>
 </project>
